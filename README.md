@@ -5,7 +5,7 @@
 ![Learning](https://img.shields.io/badge/Learning-Never%20Stop-brightgreen)
 
 
-# Hi there, I'm Ariyan Poursoliman 👋
+# Hi there, I'm Ariyan Poursoleyman 👋
 
 🎯 I'm an entry-level Android Developer with a strong drive to learn, build, and grow in the world of mobile development.  
 While I'm still early in my Android journey, I’m fully committed to writing clean, functional code and continuously improving my skills through practice and real-world projects.
