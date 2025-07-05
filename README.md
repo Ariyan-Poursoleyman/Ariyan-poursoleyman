@@ -37,3 +37,4 @@ Each project, bug, and solution is a step forward. I enjoy learning by doing and
 
 - GitHub: [@Ariyan-poursoleyman](https://github.com/Ariyan-poursoleyman)  
 - Email: [ariyan.poursoleyman@gmail.com](mailto:ariyan.poursoleyman@gmail.com)
+- LinkedIn: [Ariyan Poursoliman](https://www.linkedin.com/in/aryan-pursoleimaan/)
