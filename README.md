@@ -2,6 +2,8 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
 ![Focus](https://img.shields.io/badge/Focus-Persistent-orange?style=flat)
+![Learning](https://img.shields.io/badge/Learning-Never%20Stop-brightgreen)
+
 
 # Hi there, I'm Ariyan Poursoliman 👋
 
